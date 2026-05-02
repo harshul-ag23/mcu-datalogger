@@ -2,8 +2,13 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid dc0dacd0-94d8-4dc0-9d43-b772496c3eb2)
+	(uuid "dc0dacd0-94d8-4dc0-9d43-b772496c3eb2")
 	(paper "A4")
+	(title_block
+		(title "MCU DATALOGGER")
+		(date "2026-05-03")
+		(rev "1")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
