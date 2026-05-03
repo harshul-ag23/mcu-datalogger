@@ -2427,7 +2427,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 152.4 67.6275 0)
 			(effects
 				(font
@@ -2506,7 +2506,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 193.04 129.2225 0)
 			(effects
 				(font
@@ -2570,7 +2570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 247.9675 57.2135 90)
 			(effects
 				(font
@@ -2639,7 +2639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 96.9645 150.8125 90)
 			(effects
 				(font
@@ -2709,7 +2709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 105.537 151.4475 90)
 			(effects
 				(font
@@ -2779,7 +2779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 109.2327 72.7075 0)
 			(effects
 				(font
@@ -2849,7 +2849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 225.7552 61.9125 0)
 			(effects
 				(font
@@ -3094,7 +3094,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 169.2275 103.6955 90)
 			(effects
 				(font
@@ -3164,7 +3164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 24.13 83.185 0)
 			(effects
 				(font
@@ -3234,7 +3234,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
 			(at 160.655 85.725 0)
 			(effects
 				(font
@@ -3304,7 +3304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 153.0477 97.4725 0)
 			(effects
 				(font
@@ -3372,7 +3372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 155.575 57.4548 0)
 			(effects
 				(font
@@ -3442,7 +3442,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 193.04 154.6225 0)
 			(effects
 				(font
@@ -3795,7 +3795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 153.6827 81.28 0)
 			(effects
 				(font
@@ -3865,7 +3865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 193.04 136.525 0)
 			(effects
 				(font
@@ -3929,7 +3929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 192.405 154.305 0)
 			(effects
 				(font
@@ -3991,7 +3991,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 134.62 69.088 90)
 			(effects
 				(font
@@ -4061,7 +4061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 192.7225 145.0975 0)
 			(effects
 				(font
@@ -4125,7 +4125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 79.6925 154.6225 0)
 			(effects
 				(font
@@ -4213,7 +4213,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 49.53 153.9875 0)
 			(effects
 				(font
@@ -4301,7 +4301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 98.552 69.215 90)
 			(effects
 				(font
@@ -4371,7 +4371,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 233.9975 80.01 0)
 			(effects
 				(font
@@ -4450,7 +4450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 232.537 93.0275 90)
 			(effects
 				(font
@@ -4520,7 +4520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 91.8845 69.85 90)
 			(effects
 				(font
