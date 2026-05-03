@@ -10,6 +10,783 @@
 		(rev "1")
 	)
 	(lib_symbols
+		(symbol "ATMEGA328P-AU:ATMEGA328P-AU"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -10.1755 29.2546 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "ATMEGA328P-AU"
+				(at -10.1669 -31.7714 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "ATMEGA328P-AU:QFP80P900X900X120-32N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Microchip Technology"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "TQFP-32 Microchip"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip+Technology/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "IPC-7351B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "8271A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip+Technology/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "ATMEGA328P-AU"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4702999&manufacturer=Microchip Technology&part_name=ATMEGA328P-AU&search_term=atmega328p-au"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Microchip"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "ATMEGA328P-AU_0_0"
+				(rectangle
+					(start -10.16 -27.94)
+					(end 10.16 27.94)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 17.78 0)
+					(length 5.08)
+					(name "PB0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 15.24 0)
+					(length 5.08)
+					(name "PB1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 12.7 0)
+					(length 5.08)
+					(name "PB2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 10.16 0)
+					(length 5.08)
+					(name "PB3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 7.62 0)
+					(length 5.08)
+					(name "PB4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 5.08 0)
+					(length 5.08)
+					(name "PB5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 2.54 0)
+					(length 5.08)
+					(name "PB6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 0 0)
+					(length 5.08)
+					(name "PB7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -5.08 0)
+					(length 5.08)
+					(name "PC0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "23"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -7.62 0)
+					(length 5.08)
+					(name "PC1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "24"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -10.16 0)
+					(length 5.08)
+					(name "PC2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "25"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -12.7 0)
+					(length 5.08)
+					(name "PC3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "26"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -15.24 0)
+					(length 5.08)
+					(name "PC4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "27"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -17.78 0)
+					(length 5.08)
+					(name "PC5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "28"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at -15.24 -20.32 0)
+					(length 5.08)
+					(name "PC6/~{RESET}"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "29"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 25.4 180)
+					(length 5.08)
+					(name "AVCC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 22.86 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 22.86 180)
+					(length 5.08)
+					(hide yes)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 17.78 180)
+					(length 5.08)
+					(name "PD0"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "30"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(name "PD1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "31"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 12.7 180)
+					(length 5.08)
+					(name "PD2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "32"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 10.16 180)
+					(length 5.08)
+					(name "PD3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 7.62 180)
+					(length 5.08)
+					(name "PD4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 5.08 180)
+					(length 5.08)
+					(name "PD5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 2.54 180)
+					(length 5.08)
+					(name "PD6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "PD7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -5.08 180)
+					(length 5.08)
+					(name "ADC6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -7.62 180)
+					(length 5.08)
+					(name "ADC7"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "22"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 -10.16 180)
+					(length 5.08)
+					(name "AREF"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -25.4 180)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "21"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -25.4 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -25.4 180)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "DS1337S_:DS1337S_"
 			(pin_names
 				(offset 1.016)
@@ -1623,755 +2400,10 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "dk_Embedded-Microcontrollers:ATMEGA328P-AU"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at -8.89 38.1 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "ATMEGA328P-AU"
-				(at 2.54 1.27 90)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-				)
-			)
-			(property "Footprint" "digikey-footprints:TQFP-32_7x7mm"
-				(at 5.08 5.08 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326"
-				(at 5.08 7.62 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "IC MCU 8BIT 32KB FLASH 32TQFP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Digi-Key_PN" "ATMEGA328P-AU-ND"
-				(at 5.08 10.16 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "MPN" "ATMEGA328P-AU"
-				(at 5.08 12.7 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Category" "Integrated Circuits (ICs)"
-				(at 5.08 15.24 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Family" "Embedded - Microcontrollers"
-				(at 5.08 17.78 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "DK_Datasheet_Link" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326"
-				(at 5.08 20.32 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "DK_Detail_Page" "/product-detail/en/microchip-technology/ATMEGA328P-AU/ATMEGA328P-AU-ND/1832260"
-				(at 5.08 22.86 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description_1" "IC MCU 8BIT 32KB FLASH 32TQFP"
-				(at 5.08 25.4 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Microchip Technology"
-				(at 5.08 27.94 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Status" "Active"
-				(at 5.08 30.48 0)
-				(effects
-					(font
-						(size 1.524 1.524)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "ATMEGA328P-AU-ND AVR® ATmega"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "ATMEGA328P-AU_0_1"
-				(rectangle
-					(start -8.89 35.56)
-					(end 7.62 -34.29)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "ATMEGA328P-AU_1_1"
-				(pin bidirectional line
-					(at -12.7 33.02 0)
-					(length 3.81)
-					(name "PD3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 30.48 0)
-					(length 3.81)
-					(name "PD4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 27.94 0)
-					(length 3.81)
-					(name "PB6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 25.4 0)
-					(length 3.81)
-					(name "PB7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 22.86 0)
-					(length 3.81)
-					(name "PD5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 20.32 0)
-					(length 3.81)
-					(name "PD6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 17.78 0)
-					(length 3.81)
-					(name "PD7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 15.24 0)
-					(length 3.81)
-					(name "PB0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 12.7 0)
-					(length 3.81)
-					(name "PB1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 10.16 0)
-					(length 3.81)
-					(name "PB2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 7.62 0)
-					(length 3.81)
-					(name "PB3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 5.08 0)
-					(length 3.81)
-					(name "PB4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 2.54 0)
-					(length 3.81)
-					(name "PB5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 0 0)
-					(length 3.81)
-					(name "PC0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -2.54 0)
-					(length 3.81)
-					(name "PC1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -5.08 0)
-					(length 3.81)
-					(name "PC2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -7.62 0)
-					(length 3.81)
-					(name "PC3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -10.16 0)
-					(length 3.81)
-					(name "PC4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -12.7 0)
-					(length 3.81)
-					(name "PC5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -15.24 0)
-					(length 3.81)
-					(name "PC6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "29"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -17.78 0)
-					(length 3.81)
-					(name "PD0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "30"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -20.32 0)
-					(length 3.81)
-					(name "PD1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "31"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -12.7 -22.86 0)
-					(length 3.81)
-					(name "PD2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "32"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -12.7 -25.4 0)
-					(length 3.81)
-					(name "ADC6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -12.7 -27.94 0)
-					(length 3.81)
-					(name "AREF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -12.7 -30.48 0)
-					(length 3.81)
-					(name "ADC7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 40.64 270)
-					(length 3.81)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 0 -38.1 90)
-					(length 3.81)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 2.54 40.64 270)
-					(length 3.81)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 2.54 -38.1 90)
-					(length 3.81)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 5.08 40.64 270)
-					(length 3.81)
-					(name "AVCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 5.08 -38.1 90)
-					(length 3.81)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 138.1125 89.8525 0)
+		(at 152.4 67.6275 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2380,7 +2412,7 @@
 		(fields_autoplaced yes)
 		(uuid "013ffe4a-2d52-47ee-b32b-6bf5e67cfd1e")
 		(property "Reference" "D2"
-			(at 136.525 83.82 0)
+			(at 150.8125 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2388,7 +2420,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 136.525 86.36 0)
+			(at 150.8125 64.135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2396,7 +2428,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.1125 89.8525 0)
+			(at 152.4 67.6275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2405,7 +2437,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 138.1125 89.8525 0)
+			(at 152.4 67.6275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2414,7 +2446,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 138.1125 89.8525 0)
+			(at 152.4 67.6275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,7 +2455,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 138.1125 89.8525 0)
+			(at 152.4 67.6275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2512,7 +2544,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery")
-		(at 175.5775 88.265 0)
+		(at 247.9675 58.7375 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2521,7 +2553,7 @@
 		(fields_autoplaced yes)
 		(uuid "105612fb-4d06-43ea-9072-7210cd4f062c")
 		(property "Reference" "BT1"
-			(at 179.07 86.4234 0)
+			(at 251.46 56.8959 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2530,7 +2562,7 @@
 			)
 		)
 		(property "Value" "Battery"
-			(at 179.07 88.9634 0)
+			(at 251.46 59.4359 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2539,7 +2571,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.5775 86.741 90)
+			(at 247.9675 57.2135 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2548,7 +2580,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 175.5775 86.741 90)
+			(at 247.9675 57.2135 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2557,7 +2589,7 @@
 			)
 		)
 		(property "Description" "Multiple-cell battery"
-			(at 175.5775 88.265 0)
+			(at 247.9675 58.7375 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,16 +2614,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 84.1375 115.2525 0)
+		(at 98.7425 150.8125 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3a4012e7-a199-49d9-8745-96119d735c25")
 		(property "Reference" "R6"
-			(at 86.6775 113.9824 0)
+			(at 101.2825 149.5424 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2599,8 +2630,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 86.6775 116.5224 0)
+		(property "Value" "4.7K"
+			(at 101.2825 152.0824 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2609,7 +2640,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.3595 115.2525 90)
+			(at 96.9645 150.8125 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2618,7 +2649,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 84.1375 115.2525 0)
+			(at 98.7425 150.8125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2627,7 +2658,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 84.1375 115.2525 0)
+			(at 98.7425 150.8125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2652,7 +2683,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 92.71 115.8875 0)
+		(at 107.315 151.4475 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2661,7 +2692,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c16d907-adb5-4cd9-a154-e72ccdaed4ca")
 		(property "Reference" "R1"
-			(at 95.25 114.6174 0)
+			(at 109.855 150.1774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2669,8 +2700,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 95.25 117.1574 0)
+		(property "Value" "4.7K"
+			(at 109.855 152.7174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,7 +2710,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 90.932 115.8875 90)
+			(at 105.537 151.4475 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2688,7 +2719,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 115.8875 0)
+			(at 107.315 151.4475 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2697,7 +2728,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 92.71 115.8875 0)
+			(at 107.315 151.4475 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +2753,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 161.6075 119.6975 0)
+		(at 108.2675 68.8975 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2731,7 +2762,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d3c3291-565c-4a6e-af9b-8e76b1d845df")
 		(property "Reference" "C3"
-			(at 165.1 118.4274 0)
+			(at 111.76 67.6274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2739,8 +2770,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 165.1 120.9674 0)
+		(property "Value" "0.1uF"
+			(at 111.76 70.1674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2749,7 +2780,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.5727 123.5075 0)
+			(at 109.2327 72.7075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2758,7 +2789,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.6075 119.6975 0)
+			(at 108.2675 68.8975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2767,7 +2798,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 161.6075 119.6975 0)
+			(at 108.2675 68.8975 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2792,7 +2823,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 188.595 111.125 0)
+		(at 224.79 58.1025 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2801,7 +2832,7 @@
 		(fields_autoplaced yes)
 		(uuid "3f30232a-7185-4f2d-891e-b752976db7c3")
 		(property "Reference" "C5"
-			(at 191.77 108.9659 0)
+			(at 227.965 55.9434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2809,8 +2840,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
-			(at 191.77 111.5059 0)
+		(property "Value" "100nF"
+			(at 227.965 58.4834 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2819,7 +2850,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.5602 114.935 0)
+			(at 225.7552 61.9125 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2828,7 +2859,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 188.595 111.125 0)
+			(at 224.79 58.1025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2837,7 +2868,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 188.595 111.125 0)
+			(at 224.79 58.1025 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2862,7 +2893,7 @@
 	)
 	(symbol
 		(lib_id "DS1337S_:DS1337S_")
-		(at 220.345 85.09 0)
+		(at 67.31 80.3275 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2871,7 +2902,7 @@
 		(fields_autoplaced yes)
 		(uuid "460bdd1d-bce8-43e4-a5b8-b7511f96bbf9")
 		(property "Reference" "U4"
-			(at 220.345 64.77 0)
+			(at 67.31 60.0075 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2879,7 +2910,7 @@
 			)
 		)
 		(property "Value" "DS1337S_"
-			(at 220.345 67.31 0)
+			(at 67.31 62.5475 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2887,7 +2918,7 @@
 			)
 		)
 		(property "Footprint" "DS1337S_:SOIC127P600X175-8N"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2897,7 +2928,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2906,7 +2937,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2915,7 +2946,7 @@
 			)
 		)
 		(property "MF" "Analog Devices"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2925,7 +2956,7 @@
 			)
 		)
 		(property "Description_1" "Real Time Clock (RTC) IC Clock/Calendar - I²C, 2-Wire Serial 8-SOIC (0.154, 3.90mm Width)"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2935,7 +2966,7 @@
 			)
 		)
 		(property "Package" "SOIC-8 Maxim"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +2976,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2955,7 +2986,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DS1337S/Analog+Devices/view-part/?ref=snap"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2965,7 +2996,7 @@
 			)
 		)
 		(property "MP" "DS1337S"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2975,7 +3006,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2748190&manufacturer=Analog Devices&part_name=DS1337S&search_term=None"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2985,7 +3016,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2995,7 +3026,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/DS1337S/Analog+Devices/view-part/?ref=eda"
-			(at 220.345 85.09 0)
+			(at 67.31 80.3275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3039,7 +3070,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 75.2475 115.8875 0)
+		(at 169.2275 101.9175 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3048,25 +3079,23 @@
 		(fields_autoplaced yes)
 		(uuid "48c7e2e8-e78c-478c-bfe2-93515cf1a6b5")
 		(property "Reference" "R7"
-			(at 77.7875 114.6174 0)
+			(at 169.2275 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 77.7875 117.1574 0)
+		(property "Value" "10K"
+			(at 169.2275 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 73.4695 115.8875 90)
+			(at 169.2275 103.6955 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3075,7 +3104,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 75.2475 115.8875 0)
+			(at 169.2275 101.9175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3084,7 +3113,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 75.2475 115.8875 0)
+			(at 169.2275 101.9175 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3108,260 +3137,8 @@
 		)
 	)
 	(symbol
-		(lib_id "dk_Embedded-Microcontrollers:ATMEGA328P-AU")
-		(at 48.895 100.0125 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "63f64516-0f62-4fb6-93d1-c2152a7ababb")
-		(property "Reference" "U3"
-			(at 57.15 97.4724 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATMEGA328P-AU"
-			(at 57.15 100.0124 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "digikey-footprints:TQFP-32_7x7mm"
-			(at 53.975 94.9325 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326"
-			(at 53.975 92.3925 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "IC MCU 8BIT 32KB FLASH 32TQFP"
-			(at 48.895 100.0125 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Digi-Key_PN" "ATMEGA328P-AU-ND"
-			(at 53.975 89.8525 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ATMEGA328P-AU"
-			(at 53.975 87.3125 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Category" "Integrated Circuits (ICs)"
-			(at 53.975 84.7725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Family" "Embedded - Microcontrollers"
-			(at 53.975 82.2325 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Datasheet_Link" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en608326"
-			(at 53.975 79.6925 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Detail_Page" "/product-detail/en/microchip-technology/ATMEGA328P-AU/ATMEGA328P-AU-ND/1832260"
-			(at 53.975 77.1525 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "IC MCU 8BIT 32KB FLASH 32TQFP"
-			(at 53.975 74.6125 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Microchip Technology"
-			(at 53.975 72.0725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Status" "Active"
-			(at 53.975 69.5325 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d7461f31-01f6-40c8-bb14-21a65c911dd0")
-		)
-		(pin "2"
-			(uuid "202c98d8-fe83-477c-bb47-777fdc4d44fe")
-		)
-		(pin "7"
-			(uuid "d7bbf435-793f-4efe-b9a6-60ea94fe4182")
-		)
-		(pin "9"
-			(uuid "ab0e3a7b-64ce-4978-80aa-69cb8128de81")
-		)
-		(pin "8"
-			(uuid "9a80290a-042c-481f-94d8-4d7c171a5fb3")
-		)
-		(pin "23"
-			(uuid "3c7bfa10-0786-48e3-a985-06fc90172ae3")
-		)
-		(pin "30"
-			(uuid "b2837a8c-fbce-4ba7-b926-5bda9223ea63")
-		)
-		(pin "25"
-			(uuid "e9b8c311-9c5a-45c0-9e45-7b23b2ef700e")
-		)
-		(pin "21"
-			(uuid "29e82b19-8d55-4498-bc1c-35d16ee14122")
-		)
-		(pin "29"
-			(uuid "09d6a9a6-7402-4910-982b-a5d976a5bf8d")
-		)
-		(pin "26"
-			(uuid "3d2482e9-fb32-46e8-99b1-e3422e139a86")
-		)
-		(pin "28"
-			(uuid "ed2606ef-cd91-441c-9cce-feee1b4bae61")
-		)
-		(pin "32"
-			(uuid "11bd1d13-f80f-454a-b680-1c823845b96a")
-		)
-		(pin "13"
-			(uuid "e2834dc7-8df7-45f5-8ec9-f108bb228f58")
-		)
-		(pin "17"
-			(uuid "5c4a7557-e8f5-4c0d-84db-b3418fc98444")
-		)
-		(pin "24"
-			(uuid "6f348b3d-2c10-4eb8-b67c-36fa0c4d39e9")
-		)
-		(pin "27"
-			(uuid "6a24a08e-8540-47dd-8e47-9b06b067eccb")
-		)
-		(pin "10"
-			(uuid "96e39dfd-a7b9-4e63-9e76-7b68dd1207e6")
-		)
-		(pin "19"
-			(uuid "392dbc6a-2f5f-4321-ba4d-392cfa651618")
-		)
-		(pin "22"
-			(uuid "2c99816e-a884-4693-852c-46ebf2c04373")
-		)
-		(pin "3"
-			(uuid "ed4c83c4-85e7-4b4e-b9fc-e17cb783a7aa")
-		)
-		(pin "16"
-			(uuid "940aa702-c4c2-44d1-92b5-1300d334be53")
-		)
-		(pin "6"
-			(uuid "927ccb1d-2700-425f-ad5d-e8928d930d36")
-		)
-		(pin "31"
-			(uuid "68ca536e-2a8d-4263-9956-7225cce3b478")
-		)
-		(pin "5"
-			(uuid "99b7dec6-cf23-4b75-9add-99d7d713271f")
-		)
-		(pin "11"
-			(uuid "9d64bc52-4f85-4b3a-aa3d-222e2d6ba5b6")
-		)
-		(pin "14"
-			(uuid "44e16379-a770-4840-8bba-5af305e89dd4")
-		)
-		(pin "12"
-			(uuid "e143a8bf-50e6-44e0-a6e6-312b87e2783f")
-		)
-		(pin "15"
-			(uuid "f1506c82-8f8d-420a-9b11-48f63089cc5c")
-		)
-		(pin "20"
-			(uuid "d71600dc-afc2-43ea-9acc-49fc1066b892")
-		)
-		(pin "4"
-			(uuid "ed68cec2-3728-44fc-b5f0-ff503190c9c7")
-		)
-		(pin "18"
-			(uuid "f89780d7-2d1f-486c-b27b-9969dab74b02")
-		)
-		(instances
-			(project ""
-				(path "/dc0dacd0-94d8-4dc0-9d43-b772496c3eb2"
-					(reference "U3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Crystal")
-		(at 109.855 88.5825 0)
+		(at 24.13 83.185 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3370,23 +3147,25 @@
 		(fields_autoplaced yes)
 		(uuid "714dd829-8302-49fd-b76b-5201bf8325d3")
 		(property "Reference" "Y2"
-			(at 109.855 81.28 0)
+			(at 27.6225 81.9149 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
-			(at 109.855 83.82 0)
+		(property "Value" "32.768 KHz"
+			(at 27.6225 84.4549 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 109.855 88.5825 0)
+			(at 24.13 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3395,7 +3174,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.855 88.5825 0)
+			(at 24.13 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3404,7 +3183,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 109.855 88.5825 0)
+			(at 24.13 83.185 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3429,7 +3208,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 122.2375 89.2175 0)
+		(at 160.655 85.725 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3438,23 +3217,25 @@
 		(fields_autoplaced yes)
 		(uuid "76c43702-63ec-4322-a04c-2c1f3e032732")
 		(property "Reference" "Y1"
-			(at 122.2375 81.28 0)
+			(at 164.7825 84.4549 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "Crystal"
-			(at 122.2375 83.82 0)
+		(property "Value" "16MHz"
+			(at 164.7825 86.9949 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 122.2375 89.2175 0)
+			(at 160.655 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3463,7 +3244,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 122.2375 89.2175 0)
+			(at 160.655 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3472,7 +3253,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 122.2375 89.2175 0)
+			(at 160.655 85.725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3497,7 +3278,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 174.625 119.6975 0)
+		(at 152.0825 93.6625 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3506,7 +3287,7 @@
 		(fields_autoplaced yes)
 		(uuid "99ff2eda-6e98-47b0-86f4-953c0bafe945")
 		(property "Reference" "C4"
-			(at 177.8 118.4274 0)
+			(at 155.2575 92.3924 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3514,8 +3295,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 177.8 120.9674 0)
+		(property "Value" "22pF"
+			(at 155.2575 94.9324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3524,7 +3305,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.5902 123.5075 0)
+			(at 153.0477 97.4725 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3533,7 +3314,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 174.625 119.6975 0)
+			(at 152.0825 93.6625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3542,7 +3323,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 174.625 119.6975 0)
+			(at 152.0825 93.6625 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3567,7 +3348,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 163.83 106.045 0)
+		(at 151.765 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3576,25 +3357,23 @@
 		(fields_autoplaced yes)
 		(uuid "abe520d0-4291-467c-8726-094d72d8e8ea")
 		(property "Reference" "C1"
-			(at 167.64 104.7749 0)
+			(at 151.765 51.7525 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 167.64 107.3149 0)
+		(property "Value" "0.1uF"
+			(at 151.765 54.2925 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 164.7952 109.855 0)
+			(at 155.575 57.4548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3603,7 +3382,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 106.045 0)
+			(at 151.765 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3612,7 +3391,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 163.83 106.045 0)
+			(at 151.765 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3700,8 +3479,297 @@
 		)
 	)
 	(symbol
+		(lib_id "ATMEGA328P-AU:ATMEGA328P-AU")
+		(at 195.2625 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bba5fcc9-556c-4a75-9846-e12fc705f61e")
+		(property "Reference" "U3"
+			(at 195.2625 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ATMEGA328P-AU"
+			(at 195.2625 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "ATMEGA328P-AU:QFP80P900X900X120-32N"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Microchip Technology"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.20mm"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "TQFP-32 Microchip"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip+Technology/view-part/?ref=eda"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "8271A"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip+Technology/view-part/?ref=snap"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "ATMEGA328P-AU"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4702999&manufacturer=Microchip Technology&part_name=ATMEGA328P-AU&search_term=atmega328p-au"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 32-TQFP (7x7)"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Microchip"
+			(at 195.2625 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "15"
+			(uuid "9c325e5f-ae3f-4a5f-823e-ece81fa08fba")
+		)
+		(pin "11"
+			(uuid "06dadbba-8dd7-4a6b-a1b6-9cda872c3a65")
+		)
+		(pin "4"
+			(uuid "349139bd-35fc-4164-91c1-2da35d82977a")
+		)
+		(pin "17"
+			(uuid "ae4be313-f853-4f65-a417-7a2de7cb1eca")
+		)
+		(pin "30"
+			(uuid "c8a4ca1b-4d88-4096-91df-79b44c866144")
+		)
+		(pin "14"
+			(uuid "ba568b14-14c5-4c8d-b3b4-24623ad14442")
+		)
+		(pin "32"
+			(uuid "65d6f82e-623e-4729-8174-bca76aeaf459")
+		)
+		(pin "26"
+			(uuid "c3c79725-6741-4475-88ac-4f0dd1f75534")
+		)
+		(pin "13"
+			(uuid "86300d51-99c0-4b69-993a-d8c3bff6193e")
+		)
+		(pin "27"
+			(uuid "b80fdf9b-d082-4a05-bcbd-8bd5b9bd116d")
+		)
+		(pin "12"
+			(uuid "24399362-adaa-42e3-b8d8-b9bddff1afcb")
+		)
+		(pin "1"
+			(uuid "fce0f559-54f5-4474-b7f4-f71952483b89")
+		)
+		(pin "10"
+			(uuid "7d638b11-85a8-4d16-8d8e-6621dbadb253")
+		)
+		(pin "25"
+			(uuid "af469234-33ed-48f6-9dcc-7b285d0f71e1")
+		)
+		(pin "18"
+			(uuid "d773a4c9-da8b-49ed-b2f5-0db4006c5c40")
+		)
+		(pin "6"
+			(uuid "d2f85540-c0f6-485b-859b-4d94dd3a4d1a")
+		)
+		(pin "23"
+			(uuid "9f5192e0-ccf1-40a3-bb74-db44289bdabd")
+		)
+		(pin "7"
+			(uuid "0c574e56-0d1e-4526-949f-fd9f98c7edae")
+		)
+		(pin "24"
+			(uuid "59c6e6f2-892f-457b-82a9-8141ef9c00c2")
+		)
+		(pin "8"
+			(uuid "a4b51a96-8dfe-426a-bfc4-6ac5ab1fd3c7")
+		)
+		(pin "16"
+			(uuid "d6fb6445-7f4d-4c12-83fe-1cb123a6738a")
+		)
+		(pin "31"
+			(uuid "e518c806-dce9-4d63-b535-591d991c33a5")
+		)
+		(pin "28"
+			(uuid "d9dbd150-bff6-4766-9fdc-7152fbb08c6d")
+		)
+		(pin "29"
+			(uuid "b718a1ef-38c5-4a45-9155-0b3905a5db08")
+		)
+		(pin "2"
+			(uuid "08416c5b-c6fa-4826-b027-c74aac61846f")
+		)
+		(pin "9"
+			(uuid "fa830e64-965f-4962-b9fc-5c8f798c5c08")
+		)
+		(pin "20"
+			(uuid "be46031e-6013-4f0e-ae5e-c9c4eab80f98")
+		)
+		(pin "19"
+			(uuid "fab274fd-c4d1-48d6-97dc-cf2634315b80")
+		)
+		(pin "5"
+			(uuid "0fe1775c-d439-43f2-ae87-f469a5903b33")
+		)
+		(pin "22"
+			(uuid "89bb952a-31ae-412a-bd53-b1ff2bebcd22")
+		)
+		(pin "21"
+			(uuid "9c87db90-e874-4959-b553-00102146a3cd")
+		)
+		(pin "3"
+			(uuid "5ad05dcd-3318-49f0-9344-21bfa3645824")
+		)
+		(instances
+			(project ""
+				(path "/dc0dacd0-94d8-4dc0-9d43-b772496c3eb2"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
-		(at 174.3075 107.315 0)
+		(at 152.7175 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3710,7 +3778,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc498844-0a97-40f2-a0ed-51fe24648490")
 		(property "Reference" "C2"
-			(at 177.8 106.0449 0)
+			(at 156.21 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3718,8 +3786,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 177.8 108.5849 0)
+		(property "Value" "22pF"
+			(at 156.21 78.7399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3728,7 +3796,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.2727 111.125 0)
+			(at 153.6827 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,7 +3805,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 174.3075 107.315 0)
+			(at 152.7175 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3746,7 +3814,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 174.3075 107.315 0)
+			(at 152.7175 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3899,7 +3967,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 121.92 116.205 0)
+		(at 134.62 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3908,25 +3976,23 @@
 		(fields_autoplaced yes)
 		(uuid "c1bb613f-c17e-4f94-817f-7851e99bc0d9")
 		(property "Reference" "R4"
-			(at 124.46 114.9349 0)
+			(at 134.62 61.595 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 124.46 117.4749 0)
+		(property "Value" "330"
+			(at 134.62 64.135 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 120.142 116.205 90)
+			(at 134.62 69.088 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3935,7 +4001,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 116.205 0)
+			(at 134.62 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3944,7 +4010,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 121.92 116.205 0)
+			(at 134.62 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4033,7 +4099,7 @@
 	)
 	(symbol
 		(lib_id "Memory_EEPROM:24LC1025")
-		(at 133.35 136.8425 0)
+		(at 79.6925 154.6225 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4042,7 +4108,7 @@
 		(fields_autoplaced yes)
 		(uuid "d92c369a-50a4-4bda-8d23-bb9b5ad3b858")
 		(property "Reference" "U2"
-			(at 135.4933 127 0)
+			(at 81.8358 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4051,7 +4117,7 @@
 			)
 		)
 		(property "Value" "24LC1025"
-			(at 135.4933 129.54 0)
+			(at 81.8358 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4126,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 136.8425 0)
+			(at 79.6925 154.6225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4069,7 +4135,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf"
-			(at 133.35 136.8425 0)
+			(at 79.6925 154.6225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4078,7 +4144,7 @@
 			)
 		)
 		(property "Description" "I2C Serial EEPROM, 1024Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8"
-			(at 133.35 136.8425 0)
+			(at 79.6925 154.6225 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +4187,7 @@
 	)
 	(symbol
 		(lib_id "Memory_EEPROM:24LC1025")
-		(at 103.1875 136.2075 0)
+		(at 49.53 153.9875 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4130,7 +4196,7 @@
 		(fields_autoplaced yes)
 		(uuid "da0dd6cb-708d-4df2-bf77-9c5e0b8b4e54")
 		(property "Reference" "U1"
-			(at 105.3308 126.365 0)
+			(at 51.6733 144.145 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4205,7 @@
 			)
 		)
 		(property "Value" "24LC1025"
-			(at 105.3308 128.905 0)
+			(at 51.6733 146.685 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4148,7 +4214,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 103.1875 136.2075 0)
+			(at 49.53 153.9875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4157,7 +4223,7 @@
 			)
 		)
 		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/21941B.pdf"
-			(at 103.1875 136.2075 0)
+			(at 49.53 153.9875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4166,7 +4232,7 @@
 			)
 		)
 		(property "Description" "I2C Serial EEPROM, 1024Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8"
-			(at 103.1875 136.2075 0)
+			(at 49.53 153.9875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4209,7 +4275,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 100.6475 115.8875 0)
+		(at 100.33 69.215 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4218,7 +4284,7 @@
 		(fields_autoplaced yes)
 		(uuid "e27c1a52-6653-4f65-808c-8378481a0167")
 		(property "Reference" "R2"
-			(at 102.87 114.6174 0)
+			(at 102.5525 67.9449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4226,8 +4292,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 102.87 117.1574 0)
+		(property "Value" "10K"
+			(at 102.5525 70.4849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4236,7 +4302,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 98.8695 115.8875 90)
+			(at 98.552 69.215 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4245,7 +4311,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.6475 115.8875 0)
+			(at 100.33 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4254,7 +4320,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 100.6475 115.8875 0)
+			(at 100.33 69.215 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4279,7 +4345,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 155.2575 89.535 0)
+		(at 233.9975 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4288,23 +4354,25 @@
 		(fields_autoplaced yes)
 		(uuid "ed34958b-6a3f-455c-bd58-442fee5e309e")
 		(property "Reference" "D1"
-			(at 153.67 83.82 0)
+			(at 237.49 80.3274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "LED"
-			(at 153.67 86.36 0)
+			(at 237.49 82.8674 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 155.2575 89.535 0)
+			(at 233.9975 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4313,7 +4381,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 155.2575 89.535 0)
+			(at 233.9975 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4322,7 +4390,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 155.2575 89.535 0)
+			(at 233.9975 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4331,7 +4399,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 155.2575 89.535 0)
+			(at 233.9975 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4356,7 +4424,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 132.08 116.5225 0)
+		(at 234.315 93.0275 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4365,7 +4433,7 @@
 		(fields_autoplaced yes)
 		(uuid "f10ddfbe-1e52-49f4-a861-8a88b561ab44")
 		(property "Reference" "R5"
-			(at 134.62 115.2524 0)
+			(at 236.855 91.7574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4373,8 +4441,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 134.62 117.7924 0)
+		(property "Value" "330"
+			(at 236.855 94.2974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4383,7 +4451,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.302 116.5225 90)
+			(at 232.537 93.0275 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4392,7 +4460,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 116.5225 0)
+			(at 234.315 93.0275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4401,7 +4469,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 132.08 116.5225 0)
+			(at 234.315 93.0275 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4426,7 +4494,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 112.0775 116.205 0)
+		(at 93.6625 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4435,7 +4503,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb01978c-b0a9-4b05-9ff0-edd2ba595390")
 		(property "Reference" "R3"
-			(at 114.3 114.9349 0)
+			(at 95.885 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4443,8 +4511,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 114.3 117.4749 0)
+		(property "Value" "10K"
+			(at 95.885 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4453,7 +4521,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 110.2995 116.205 90)
+			(at 91.8845 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4462,7 +4530,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 112.0775 116.205 0)
+			(at 93.6625 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4471,7 +4539,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 112.0775 116.205 0)
+			(at 93.6625 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
