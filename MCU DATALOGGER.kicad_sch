@@ -3863,6 +3863,16 @@
 		)
 		(uuid "39c99d3b-dcc4-4f60-8415-1bb9e8b8bedf")
 	)
+	(label "VCC"
+		(at 236.22 41.5925 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d40912d-727b-48e6-bc36-771b073f9adc")
+	)
 	(label "SDA"
 		(at 209.55 137.16 180)
 		(effects
