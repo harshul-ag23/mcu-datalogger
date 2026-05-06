@@ -2,7 +2,10 @@ fp-info-cache
 MCU DATALOGGER-backups/*
 MCUDATALOGGERGerber/*
 .DS_Store
-2_layer_mcu datalogger/*
-4_layer_mcu datalogger/*
+*_autosave*
+*.lck
 *.kicad_prl
+#auto_Saved_files#
+
+
 
